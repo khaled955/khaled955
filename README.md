@@ -46,7 +46,7 @@
 <div align="left">
   
 ### Hotel Management System
-[🟢 Live Demo](https://hotel-managment-system-snowy.vercel.app) · [📦 Code](https://github.com/khaled955)  
+[🟢 Live Demo](https://hotel-managment-system-snowy.vercel.app) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
@@ -61,8 +61,7 @@
 <div align="left">
   
 ### Quiz Wiz App
-[🟢 Live Demo](https://quiz-wizz-app.vercel.app) · [📦 Code](https://github.com/khaled955)  
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+[🟢 Live Demo](https://quiz-wizz-app.vercel.app) ·
 ![Charts](https://img.shields.io/badge/Charts-Recharts-informational)
 ![Certificates](https://img.shields.io/badge/Certificates-PDF-blue)
 ![Auth](https://img.shields.io/badge/Auth-JWT-green)
@@ -76,10 +75,10 @@
 <div align="left">
   
 ### Project Management System
-[🟢 Live Demo](https://project-managment-system-sigma.vercel.app) · [📦 Code](https://github.com/khaled955)  
+[🟢 Live Demo](https://project-managment-system-sigma.vercel.app) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
 
 **Brief:** Task boards, drag & drop, progress tracking, and role-based dashboards.
 </div>
@@ -90,7 +89,7 @@
 <div align="left">
   
 ### Food Management System
-[🟢 Live Demo](https://food-managment-two.vercel.app) · [📦 Code](https://github.com/khaled955)  
+[🟢 Live Demo](https://food-managment-two.vercel.app) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
 ![REST](https://img.shields.io/badge/API-REST-brightgreen)
@@ -104,10 +103,12 @@
 <div align="left">
   
 ### Fresh Cart E-Commerce
-[🟢 Live Demo](https://freshcart-flax-gamma.vercel.app) · [📦 Code](https://github.com/khaled955)  
+[🟢 Live Demo](https://freshcart-flax-gamma.vercel.app) 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe)
 ![Auth](https://img.shields.io/badge/Auth-JWT-green)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+
 
 **Brief:** E-commerce app with authentication, product slider, cart system, and Stripe checkout.
 </div>
@@ -132,9 +133,8 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mansour-190ab1229/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaledmansour104@yahoo.com)
 
 ---
 ⭐ **Check out my repositories and let's collaborate!**
