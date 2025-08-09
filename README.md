@@ -41,14 +41,31 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 **[Book Store App](#)** — React + Redux Toolkit + Tailwind + Stripe Payments  
+🔹 **[Hotel Managment System](https://hotel-managment-system-snowy.vercel.app/)** — React + + MUi + Stripe Payments + Role Based Navigation
+<br>
 🔹 **[Quiz App](https://quizz-wizz-app.vercel.app/)** —  Charts + Certificates Generator + Instructor Role Base - Learner Role Base - Authentication - Animation 
 <br>
-🔹 **[Hotel Management System](#)** — React + Context API + i18next  
 
-> *(Replace `#` with your project links)*  
+🔹 **[Project Managment System](https://project-managment-system-sigma.vercel.app/)** — Admine Role Base - User Role Base
+<br>
 
----
+🔹 **[Food Managment System](https://food-managment-two.vercel.app/)** — Admine Role Base - User Role Base
+<br>
+🔹 **[User Managment System](https://usermanagmentsystem.vercel.app/)** — Admine Role Base - User Role Base
+<br>
+🔹 **[Fresh Cart E-Commerce](https://freshcart-flax-gamma.vercel.app/login)** — Authentication - slider - stripe Payment - cart
+<br>
+🔹 **[Portifolio landing page](https://portifolio-tau-one-28.vercel.app/)** — routing - slider
+<br>
+🔹 **[Book store](https://bookstore-eosin-kappa.vercel.app/)** — Authentication - slider - stripe Payment - cart
+<br>
+🔹 **[React home  landing-page](https://react-home-azure.vercel.app/)** — routing - slider
+<br>
+🔹 **[Rent car  landing-page](https://rentcar-rose.vercel.app/)** — routing - slider
+<br>
+
+
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)  
