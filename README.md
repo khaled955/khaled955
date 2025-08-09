@@ -42,7 +42,7 @@
 
 ## 📌 Featured Projects  
 🔹 **[Book Store App](#)** — React + Redux Toolkit + Tailwind + Stripe Payments  
-🔹 **[Quiz App](#)** — Next.js + i18n + Charts + Certificates Generator  
+🔹 **[Quiz App](https://quizz-wizz-app.vercel.app/)** —  Charts + Certificates Generator + Instructor Role Base - Learner Role Base - Authentication - Animation 
 🔹 **[Hotel Management System](#)** — React + Context API + i18next  
 
 > *(Replace `#` with your project links)*  
