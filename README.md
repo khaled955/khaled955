@@ -61,7 +61,7 @@
 <div align="left">
   
 ### Quiz Wiz App
-[🟢 Live Demo](https://quiz-wizz-app.vercel.app)
+[🟢 Live Demo](https://quizz-wizz-app.vercel.app)
 ![Charts](https://img.shields.io/badge/Charts-Recharts-informational)
 ![Certificates](https://img.shields.io/badge/Certificates-PDF-blue)
 ![Auth](https://img.shields.io/badge/Auth-JWT-green)
